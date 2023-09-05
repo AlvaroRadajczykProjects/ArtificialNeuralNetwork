@@ -16,12 +16,6 @@
 # Mono auto generated files
 mono_crash.*
 
-# Dlls and build
-
-dll/
-x64/Debug/
-x64/Release/
-
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
